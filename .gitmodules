@@ -1,0 +1,9 @@
+[submodule "android"]
+	path = android
+	url = http://gitlab.informatika.org/IF3111-2017-04/android.git
+[submodule "arduino"]
+	path = arduino
+	url = http://gitlab.informatika.org/IF3111-2017-04/arduino.git
+[submodule "unity"]
+	path = unity
+	url = http://gitlab.informatika.org/IF3111-2017-04/unity.git
