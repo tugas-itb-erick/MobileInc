@@ -72,18 +72,18 @@ https://drive.google.com/open?id=1R2LVf0eJqQqwxEMbJ_Q9IvqCWonDNfAY
 
 ## Deliverables
 
-- **Android**
-Project : android
+- **Android**    
+Project : android  
 URL : http://gitlab.informatika.org/IF3111-2017-04/android
-- **Unity**
-Project : unity
+- **Unity**  
+Project : unity  
 URL : http://gitlab.informatika.org/IF3111-2017-04/unity
-- **Arduino**
-Project : arduino
+- **Arduino**  
+Project : arduino  
 URL : http://gitlab.informatika.org/IF3111-2017-04/arduino
-- **API server**
+- **API server**  
 Github : https://github.com/reinhardlinardi/mobile-inc
 
-<br/>
-<br/>© 2017, Chlordane. Mobile, Inc.™ is a registered trademark of Chlordane. All rights reserved.
-<br/>Visit Mobile, Inc.™ homepage at http://mobileinc.herokuapp.com
+---
+Copyright 2017, Chlordane.  
+Mobile, Inc.™ is a registered trademark of Chlordane. All rights reserved.
