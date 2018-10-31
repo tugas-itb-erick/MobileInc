@@ -1,0 +1,9 @@
+[submodule "Android"]
+	path = Android
+	url = https://github.com/tugas-itb-erick/MobileInc-Android.git
+[submodule "Unity"]
+	path = Unity
+	url = https://github.com/tugas-itb-erick/MobileInc-Unity.git
+[submodule "Arduino"]
+	path = Arduino
+	url = https://github.com/tugas-itb-erick/MobileInc-Arduino.git
